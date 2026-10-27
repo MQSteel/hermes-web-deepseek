@@ -1,0 +1,7 @@
+name: web-deepseek
+version: 1.0.0
+description: "DeepSeek Search & Fetch API — 官方内置搜索引擎，支持搜索 + 网页抓取。Requires DEEPSEEK_API_KEY."
+author: Hermes Agent (小咪)
+kind: backend
+provides_web_providers:
+  - deepseek
